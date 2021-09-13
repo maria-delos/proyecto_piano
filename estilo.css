@@ -88,9 +88,10 @@ section {
     box-sizing: content-box;*/
     margin-top: 100px;
     margin: auto;
-    background-color: #AEB6BF;
-    height: 450px;
+    /*background-color: #AEB6BF;*/
+    height: 440px;
     width: 900px;
+    box-shadow: 20px 20px 0px 10px #AEB6BF;
     
 
 }
